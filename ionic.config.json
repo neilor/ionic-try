@@ -1,6 +1,8 @@
 {
   "name": "IonicTry",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "435b4587"
 }
